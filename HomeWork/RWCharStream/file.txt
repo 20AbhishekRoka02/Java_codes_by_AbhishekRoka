@@ -1,0 +1,2 @@
+This is file.txt
+We are operating on Character Stream.
